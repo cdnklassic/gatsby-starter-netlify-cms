@@ -1,10 +1,14 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-featuredpost: false
+title: Launch of CARL 7 at RHOK
+date: 2019-04-25T14:04:10.000Z
+description: >-
+  The new and improved Code My Robot "CARL 7" was launched at the Spring 2019
+  'Random Hacks of Kindness' (RHOK) event. The goal was to get CARL into the
+  hands of users and explore features, wireless connectivity and sensors to
+  develop challenges.
+featuredpost: true
 featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
 tags:
   - brewing
   - chemex
