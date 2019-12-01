@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: CARL 7
+title: CARL7.ca
 image: /img/code-my-robot-banner.jpg
 heading: The Best Way to Learn Robotics
 subheading: Computer Autonomous Robotic Learning System
